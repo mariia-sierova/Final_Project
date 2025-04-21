@@ -6,7 +6,7 @@
 ## Team Members & Emails
 - **Beck Johnston** - *boj22@pitt.edu*
 - **Ellie Yoon** - *ejy17@pitt.edu*
-- **Esu-Ujin Lkhagvasuren** - *@pitt.edu*
+- **Angie Lkhagvasuren** - *eal@pitt.edu*
 - **Mariia Sierova** - *mas912@pitt.edu*
 
 
